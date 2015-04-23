@@ -8,7 +8,7 @@ Political - Warmspot your message in a crowd!
 
 Etc - Tether over wifi, etc.
 
-This idea was taken from Bennet 
+Total credit belongs to [Bennet Kobb](https://twitter.com/buzzkobb).  See his [website here!](http://www.kobb.bz/)
 
 This image was built using the [Dexter Industries Raspbian for Robots](http://sourceforge.net/projects/dexterindustriesraspbianflavor) Raspbian image and [Bennet Kobb's](https://twitter.com/buzzkobb) warmspot guide.  
 
@@ -39,7 +39,9 @@ We've tested a number of Tenda dongles and they all seem to work really well!  T
 ### Files 
 
 ### Getting Into It
-Want to hack it open or make your own from scratch? Go for it!
+Want to hack it open or make your own from scratch? Go for it!  
+
+Detailed instructions are on [Bennett Kobb's website here](http://kxe1.nfshost.com/warmspot/).
 
 These files have been made available online through a [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
 
